@@ -4,7 +4,6 @@ def generate_rand_int(start, end):
 
     return random.randint(start, end)
 
-
 def run():
     while True:
         time.sleep(1)
