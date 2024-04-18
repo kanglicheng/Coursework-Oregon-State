@@ -2,4 +2,5 @@ venv/
 .venv
 *.out
 __pycache__
+*.exe
 .DS_Store
