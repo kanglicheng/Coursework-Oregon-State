@@ -1,1 +1,1 @@
-## CS 475 Paralle Programming ##
+## CS 475 Parallel Programming ##
