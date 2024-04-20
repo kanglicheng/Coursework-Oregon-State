@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-int main(void) {
+int main(void)
+{
 
     int i;
 
@@ -9,7 +10,8 @@ int main(void) {
         printf("-");
     printf("+\n");
 
-    for (i = 0; i < 3; i++){
+    for (i = 0; i < 3; i++)
+    {
         printf("| o | X | o | X | o | X |");
         printf("\n");
         printf("| X | o | X | o | X | o |");
@@ -21,5 +23,5 @@ int main(void) {
         printf("-");
     printf("+");
 
-    return(0);
+    return (0);
 }
