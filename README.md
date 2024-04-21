@@ -1,1 +1,3 @@
-## CS 475 Parallel Programming ##
+## Coursework Artifacts
+
+A repository for keeping track of class materials and completed assignment work.
